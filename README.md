@@ -1,4 +1,4 @@
-# MIPT_DS_hack
+# MIPT Hackaton CityMobil DataScience track
 ![Intro](./photo/Intro.png)
 ![Choice](./photo/Choice.png)
 ![Steps](./photo/Steps.gif)
